@@ -4,9 +4,6 @@ Created on Thu Nov  1 06:08:26 2018
 
 @author: Tomasz Truszkowski
 """
-# set current dir
-from os import chdir
-chdir(r"C:\Users\Aprikola\Documents\Edukacja\Projekt angielski dla Patryka")
 
 
 # %%
@@ -18,8 +15,8 @@ input_text.close
 
 # %%
 #for tests
-input_list = input_list[:5]
-print(input_list)
+#input_list = input_list[:5]
+#print(input_list)
 
 
 # %%
